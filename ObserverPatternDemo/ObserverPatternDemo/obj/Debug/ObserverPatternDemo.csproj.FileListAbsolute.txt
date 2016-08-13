@@ -1,0 +1,9 @@
+c:\users\jswick\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ObserverPatternDemo.csprojResolveAssemblyReference.cache
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ObserverPatternDemo.exe.config
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ObserverPatternDemo.exe
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ObserverPatternDemo.pdb
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ObserverPatternDemo.exe
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ObserverPatternDemo.pdb
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ObserverPatternDemo\ObserverPatternDemo\bin\Debug\ObserverPatternDemo.exe.config
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\ObserverPatternDemo.exe
+C:\Users\jswick\Documents\Visual Studio 2013\Projects\ObserverPatternDemo\ObserverPatternDemo\obj\Debug\ObserverPatternDemo.pdb
