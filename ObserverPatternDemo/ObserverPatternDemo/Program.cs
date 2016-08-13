@@ -38,6 +38,10 @@ namespace ObserverPatternDemo
             // are being notified each time the stock is updated
             StockMonitor stockMon2 = new StockMonitor();
             superStock.attach(stockMon2);
+            
+            //attach third stock monitor (observer) to the stock
+            StockMonitor stockMon3 = new StockMonitor();
+            superStock.attach(stockMon3);
 
             //since the stock object only generates new information periodically but doesn't block
             // the main thread, I am using readline to wait for user input rather than just closing
